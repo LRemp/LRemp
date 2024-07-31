@@ -1,6 +1,6 @@
 # 🌌 About me
 
-I am software developer with a bachelor degree of software engineering. I have strong foundation in development of backend services and APIs. I extensively have worked with backend and frontend technologies in my bachelor studies projects. Also I have worked as a freelance developer, specificaly working on FiveM platform projects. I have over 4 years of experience with Lua, HTML, JS, CSS and other frontend technologies, such as react.js.
+I am software developer with a bachelor degree of software engineering. I have strong foundation in development of backend services and APIs using .NET 8.0, node.js. I extensively have worked with backend and frontend technologies in my bachelor studies projects. Also I have worked as a freelance developer, specificaly working on FiveM platform projects. I have over 4 years of experience with Lua, HTML, JS, CSS and other frontend technologies, such as react.js.
 
 # ✨ Technologies stack
 
